@@ -22,13 +22,6 @@ fun TelaLogin() {
 }
 
 @Composable
-fun TelaFaleConosco() {
-    Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-        Text("Fale Conosco — em construção")
-    }
-}
-
-@Composable
 fun TelaOfertas() {
     Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
         Text("Ofertas — em construção")
